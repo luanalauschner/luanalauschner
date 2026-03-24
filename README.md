@@ -1,6 +1,6 @@
 ## Sobre mim ⭐
 
-🌱 Sou estudante de Ciência da Computação com foco em desenvolvimento backend e dados.  Experiência com Python, C#, SQL e JavaScript, além de Git e MySQL.
+🌱 Sou estudante de Ciência da Computação com foco em desenvolvimento backend e dados.
 
 👯 Tenho interesse em estágio de desenvolvimento de software.
 
