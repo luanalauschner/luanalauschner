@@ -34,7 +34,8 @@
 
 ## GitHub Stats 📊
 <div align="center">
-    <img loading="lazy" height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanalauschner&layout=compact&langs_count=7&theme=dracula"/>
+    <img loading="lazy" height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanalauschner&layout=compact&langs_count=7&theme=dracula"/>
+    <img loading="lazy" height="240em" src="https://streak-stats.demolab.com?user=luanalauschner&theme=dracula" />
 </div>
 
 <!--
