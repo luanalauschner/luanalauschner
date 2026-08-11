@@ -1,8 +1,6 @@
 ## Sobre mim ⭐
 
-🌱 Sou estudante de Ciência da Computação com foco em desenvolvimento backend e dados.
-
-👯 Tenho interesse em estágio de desenvolvimento de software.
+🌱 Sou estudante de Ciência da Computação
 
 ## Ferramentas e Tecnologias 🛠️
 
